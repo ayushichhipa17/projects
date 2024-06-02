@@ -9,7 +9,7 @@ public class heeloji {
 
         System.out.println("Enter one number");
         int first = sc.nextInt();
-        System.out.println("Enter second number");
+        System.out.println("Enter second number or another mumner");
         int second = sc.nextInt();
 
         int sum = first + second;
