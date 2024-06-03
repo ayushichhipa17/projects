@@ -1,3 +1,3 @@
 public class heeloji {
-    // hello java
+    // hello java project for new braches like allprojects
 }
