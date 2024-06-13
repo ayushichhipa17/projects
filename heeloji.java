@@ -11,6 +11,6 @@ public class heeloji {
         int second = sc.nextInt();
 
         int sum = first + second;
-        System.out.println("Sum: " + sum);
+        System.out.println("the sum is  " + sum);
     }
 }
